@@ -11,8 +11,8 @@
   DTS:LocaleID="1036"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{0A7F0B38-7B3E-4561-90CF-EE9590277D0B}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{1D53A2AB-A753-4DC0-AC2C-36412B1DECB4}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -611,33 +611,37 @@ Group By E.Gender</property>
         <NodeLayout
           Size="159,42"
           Id="Package\Tâche de flux de données\Colonne dérivée"
-          TopLeft="389,168" />
+          TopLeft="390,169" />
+        <NodeLayout
+          Size="202,42"
+          Id="Package\Tâche de flux de données\Destination de fichier plat"
+          TopLeft="505,284" />
         <EdgeLayout
           Id="Package\Tâche de flux de données.Paths[Sortie de source OLE DB]"
           TopLeft="328.5,108">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="140,60"
+              EndConnector="141,61"
               Start="0,0"
-              End="140,52.5">
+              End="141,53.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,26" />
+                    End="0,26.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,26"
-                    Point2="0,30"
-                    Point3="4,30" />
+                    Point1="0,26.5"
+                    Point2="0,30.5"
+                    Point3="4,30.5" />
                   <mssgle:LineSegment
-                    End="136,30" />
+                    End="137,30.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="136,30"
-                    Point2="140,30"
-                    Point3="140,34" />
+                    Point1="137,30.5"
+                    Point2="141,30.5"
+                    Point3="141,34.5" />
                   <mssgle:LineSegment
-                    End="140,52.5" />
+                    End="141,53.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -646,36 +650,32 @@ Group By E.Gender</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="202,42"
-          Id="Package\Tâche de flux de données\Destination de fichier plat"
-          TopLeft="505,284" />
         <EdgeLayout
           Id="Package\Tâche de flux de données.Paths[Sortie de colonne dérivée]"
-          TopLeft="468.5,210">
+          TopLeft="469.5,211">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="137.5,74"
+              EndConnector="136.5,73"
               Start="0,0"
-              End="137.5,66.5">
+              End="136.5,65.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,33" />
+                    End="0,32.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,33"
-                    Point2="0,37"
-                    Point3="4,37" />
+                    Point1="0,32.5"
+                    Point2="0,36.5"
+                    Point3="4,36.5" />
                   <mssgle:LineSegment
-                    End="133.5,37" />
+                    End="132.5,36.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="133.5,37"
-                    Point2="137.5,37"
-                    Point3="137.5,41" />
+                    Point1="132.5,36.5"
+                    Point2="136.5,36.5"
+                    Point3="136.5,40.5" />
                   <mssgle:LineSegment
-                    End="137.5,66.5" />
+                    End="136.5,65.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
