@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP_ETL_Atelier_1", "TP_ETL_Atelier_1\TP_ETL_Atelier_1.dtproj", "{EB78E9D2-6E93-4360-966D-6212DDDF9A5A}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP_ETL_Atelier_2", "TP_ETL_Atelier_2\TP_ETL_Atelier_2.dtproj", "{9522C89F-D92A-44FB-87A7-D5936C89B1FF}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP_ETL_Atelier_3", "TP_ETL_Atelier_3\TP_ETL_Atelier_3.dtproj", "{3DAB3F66-CD7C-406A-B2CB-67BAC0809275}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP_ETL_Atelier_3_2", "TP_ETL_Atelier_3_2\TP_ETL_Atelier_3_2.dtproj", "{5EC51EE0-6869-4593-8DFA-C2A37B7C5F58}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP_ETL_Atelier_4", "TP_ETL_Atelier_4\TP_ETL_Atelier_4.dtproj", "{1D92A65A-A480-465E-BE63-66DAAB245A24}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP_ETL_Atelier_5", "TP_ETL_Atelier_5\TP_ETL_Atelier_5.dtproj", "{AE341C1C-CAF1-4A7E-B9EF-01C028906F57}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP_ETL_Atelier_6", "TP_ETL_Atelier_6\TP_ETL_Atelier_6.dtproj", "{8C2A7D2B-4B6A-4994-B2B5-EDEB98C6FCE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB78E9D2-6E93-4360-966D-6212DDDF9A5A}.Development|Default.ActiveCfg = Development
+		{EB78E9D2-6E93-4360-966D-6212DDDF9A5A}.Development|Default.Build.0 = Development
+		{9522C89F-D92A-44FB-87A7-D5936C89B1FF}.Development|Default.ActiveCfg = Development
+		{9522C89F-D92A-44FB-87A7-D5936C89B1FF}.Development|Default.Build.0 = Development
+		{3DAB3F66-CD7C-406A-B2CB-67BAC0809275}.Development|Default.ActiveCfg = Development
+		{3DAB3F66-CD7C-406A-B2CB-67BAC0809275}.Development|Default.Build.0 = Development
+		{5EC51EE0-6869-4593-8DFA-C2A37B7C5F58}.Development|Default.ActiveCfg = Development
+		{5EC51EE0-6869-4593-8DFA-C2A37B7C5F58}.Development|Default.Build.0 = Development
+		{1D92A65A-A480-465E-BE63-66DAAB245A24}.Development|Default.ActiveCfg = Development
+		{1D92A65A-A480-465E-BE63-66DAAB245A24}.Development|Default.Build.0 = Development
+		{AE341C1C-CAF1-4A7E-B9EF-01C028906F57}.Development|Default.ActiveCfg = Development
+		{AE341C1C-CAF1-4A7E-B9EF-01C028906F57}.Development|Default.Build.0 = Development
+		{8C2A7D2B-4B6A-4994-B2B5-EDEB98C6FCE0}.Development|Default.ActiveCfg = Development
+		{8C2A7D2B-4B6A-4994-B2B5-EDEB98C6FCE0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CC2DC3-B88F-4327-87E1-90E35233F8C5}
+	EndGlobalSection
+EndGlobal
